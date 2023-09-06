@@ -20,7 +20,7 @@ Recent News
 \[2022.09\] The paper [SAPD+: An Accelerated Stochastic Method for Nonconvex-Concave Minimax Problems](https://papers.nips.cc/paper_files/paper/2022/hash/880d8999c07a8efc9bbbeb0c38f50765-Abstract-Conference.html) is accepted by NeurIPS 2022.
 
 
-Publications
+Research Papers
 ------
 * Jointly Improving the Sample and Communication Complexities in Decentralized Stochastic Minimax Optimization. ***Xuan Zhang***, Gabriel Mancino-Ball, Necdet Serhat Aybat, Yangyang Xu\
   Manuscript 2023 [[arXiv]](https://arxiv.org/abs/2307.09421)
