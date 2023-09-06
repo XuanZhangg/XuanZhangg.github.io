@@ -31,5 +31,10 @@ Talks & Conferences
 
 Teaching
 ------
+* Linear Algebra, Calculus.\
+  Instructor,  The Pennsylvania State University, 2022 Summer Graduate Boot Camp
+* Linear Programming.\
+  Undergraduate Teaching Assistant, The Pennsylvania State University, 2019 Fall
 * Numerical Analysis.\
-  Graduate Teaching Assistant, University of Wisconsin-Madison, Jan 2019 - May 2019
+  Graduate Teaching Assistant, University of Wisconsin-Madison, 2022 Fall
+
