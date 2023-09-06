@@ -16,7 +16,7 @@ Recent News
 \[2023.09] The paper [Robust Accelerated Primal-dual Methods for Computing Saddle Points](https://arxiv.org/abs/2111.12743) is accepted by SIAM Journal on Optimization (SIOPT).\
 \[2023.07\] The paper [Jointly Improving the Sample and Communication Complexities in Decentralized Stochastic Minimax Optimization](https://arxiv.org/abs/2307.09421) is online.\
 \[2022.06\] I will give a talk at INFORMS Annual Meeting 2023 in Phoenix in October 2023.\
-\[2022.03\] I will be the Research & Development Intern (full-time) at Tencent America Lightspeed Studio in Bellevue from May 2023.\
+\[2022.03\] I will be the Research & Development Intern (full-time) at Tencent America Lightspeed Studio in Bellevue from May 2023.
 <!--\[2023.02\] I will give a talk at the SIAM Conference on Optimization (OP23) in Seattle in June.\-->
 \[2022.09\] The paper [SAPD+: An Accelerated Stochastic Method for Nonconvex-Concave Minimax Problems](https://papers.nips.cc/paper_files/paper/2022/hash/880d8999c07a8efc9bbbeb0c38f50765-Abstract-Conference.html) is accepted by NeurIPS 2022.
 
