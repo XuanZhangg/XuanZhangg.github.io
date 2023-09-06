@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Experience"
-permalink: /talks/
+permalink: /cv/
 author_profile: true
 ---
 
