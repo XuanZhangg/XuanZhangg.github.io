@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
+* *Learning Neural Traffic Rules*.\
+   **Xuan Zhang**, Xifeng Gao, Kui Wu, Zherong Pan\
+  Manuscript 2023 [available soon]
 * *Jointly Improving the Sample and Communication Complexities in Decentralized Stochastic Minimax Optimization*.\
    **Xuan Zhang**, Gabriel Mancino-Ball, Necdet Serhat Aybat, Yangyang Xu\
   Manuscript 2023 [[arXiv]](https://arxiv.org/abs/2307.09421)
