@@ -31,4 +31,5 @@ Talks & Conferences
 
 Teaching
 ------
-* Course:*Numerical Analysis*, Graduate Teaching Assistant in University of Wisconsin-Madison
+* Numerical Analysis.\
+  Graduate Teaching Assistant, University of Wisconsin-Madison, Jan 2019 - May 2019
