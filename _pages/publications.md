@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research Papers"
 permalink: /publications/
 author_profile: true
 ---
@@ -14,5 +14,12 @@ author_profile: true
 <--!{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}-->
+
+* Jointly Improving the Sample and Communication Complexities in Decentralized Stochastic Minimax Optimization. ***Xuan Zhang***, Gabriel Mancino-Ball, Necdet Serhat Aybat, Yangyang Xu\
+  Manuscript 2023 [[arXiv]](https://arxiv.org/abs/2307.09421)
+* SAPD+: An Accelerated Stochastic Method for Nonconvex-Concave Minimax Problems. ***Xuan Zhang***, Necdet Serhat Aybat, Mert Gürbüzbalaban \
+  NeurIPS 2022 [[NeurIPS]](https://papers.nips.cc/paper_files/paper/2022/hash/880d8999c07a8efc9bbbeb0c38f50765-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2205.15084)
+* Robust Accelerated Primal-dual Methods for Computing Saddle Points. ***Xuan Zhang***, Necdet Serhat Aybat, Mert Gürbüzbalaban\
+  Manuscript 2021 [[arXiv]](https://arxiv.org/abs/2111.12743), Accepted by SIAM Journal on Optimization in 2023-9\
 
 
