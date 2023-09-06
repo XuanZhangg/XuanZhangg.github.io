@@ -18,8 +18,12 @@ author_profile: true
 {% endfor %}
 {% endcomment %}
 
-* INFORMS 2023 Annual Meeting. Session: "Primal-dual methods for minimax problems".(Coming)\
-* SIAM Conference on Optimization 2023. Title: “Robust Accelerated Methods for Computing Saddle Points”.\
-* NeurIPS 2022. Title: “SAPD+: An Accelerated Stochastic Method for Nonconvex-Concave Minimax Problems".\
-* INFORMS 2022 Annual Meeting. Session: “First-order Methods for Minimax Problems”.\
+* INFORMS 2023 Annual Meeting.\
+  Session: "Primal-dual methods for minimax problems".(Coming)\
+* SIAM Conference on Optimization 2023.\
+  Title: “Robust Accelerated Methods for Computing Saddle Points”.\
+* NeurIPS 2022. \
+  Title: “SAPD+: An Accelerated Stochastic Method for Nonconvex-Concave Minimax Problems".\
+* INFORMS 2022 Annual Meeting.\
+  Session: “First-order Methods for Minimax Problems”.\
 * INFORMS 2021 Annual Meeting.
