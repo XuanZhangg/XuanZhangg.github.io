@@ -48,8 +48,6 @@ M.S. in Mathematics, 2019.
 * Nanjing University, Jiangsu, China.  
 B.S. in Mathematics and Statistics, 2018.
 
-Talks
-------
 
 Miscellaneous
 ------
@@ -57,4 +55,3 @@ Miscellaneous
 * NeurIPS Student Scholarship, 2022
 * CSC Scholarship, 2019
 * Outstanding Graduate, Nanjing University, 2018
-* I love to play video games and the snowboard.
