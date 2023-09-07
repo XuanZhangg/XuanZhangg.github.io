@@ -48,7 +48,6 @@ M.S. in Mathematics, 2019.
 * Nanjing University, Jiangsu, China.  
 B.S. in Mathematics and Statistics, 2018.
 
-
 Miscellaneous
 ------
 * Glenn E. Singley Memorial Graduate Fellowship in Engineering, The Pennsylvania State University, 2023
