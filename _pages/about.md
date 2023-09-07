@@ -37,7 +37,7 @@ Industrial Experience
 
 Skills
 ------
-* Python(PyTorch etc.), C++, GPGPU(cuda), Matlab
+* Python(PyTorch etc.), C++, General Purpose GPU Programming(cuda), Matlab
 
 Education
 ------
