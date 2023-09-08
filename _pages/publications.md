@@ -18,11 +18,27 @@ author_profile: true
 * *Learning Neural Traffic Rules*.\
    **Xuan Zhang**, Xifeng Gao, Kui Wu, Zherong Pan\
   Manuscript 2023 [available soon]
-  <div style="display: flex; flex-wrap: nowrap; flex-direction: row; justify-content: space-between; width: 100%;">
-    <img src="/images/UNSEEN1_SP.gif" alt="Description 1" style="width: 30%; margin-right: 1%;">
-    <img src="/images/UNSEEN1_IL.gif" alt="Description 2" style="width: 30%; margin-right: 1%;">
-    <img src="/images/UNSEEN1_RL.gif" alt="Description 3" style="width: 30%;">
-   </div>
+<h2>Your Title Here</h2>
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
+
+  <div style="flex: 1; text-align: center; margin-right: 2%;">
+    <img src="/images/UNSEEN1_SP.gif" alt="Description 1" style="width: 100%;">
+    <p>Description 1</p>
+  </div>
+
+  <div style="flex: 1; text-align: center; margin-right: 2%;">
+    <img src="/images/UNSEEN1_IL.gif" alt="Description 2" style="width: 100%;">
+    <p>Description 2</p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/UNSEEN1_RL.gif" alt="Description 3" style="width: 100%;">
+    <p>Description 3</p>
+  </div>
+
+</div>
+
 * *Jointly Improving the Sample and Communication Complexities in Decentralized Stochastic Minimax Optimization*.\
    **Xuan Zhang**, Gabriel Mancino-Ball, Necdet Serhat Aybat, Yangyang Xu\
   Manuscript 2023 [[arXiv]](https://arxiv.org/abs/2307.09421)
