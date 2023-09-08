@@ -20,9 +20,9 @@ author_profile: true
   Manuscript 2023 [available soon]
   ![替代文本](images/UNSEEN1_SP.gif)
   <div style="display: flex; justify-content: space-between;">
-    <img src="images/UNSEEN1_SP.gif" alt="Description 1" style="width: 30%; margin-right: 2%;">
-    <img src="images/UNSEEN1_IL.gif" alt="Description 2" style="width: 30%; margin-right: 2%;">
-    <img src="images/UNSEEN1_RL.gif" alt="Description 3" style="width: 30%;">
+    <img src="/images/UNSEEN1_SP.gif" alt="Description 1" style="width: 30%; margin-right: 2%;">
+    <img src="/images/UNSEEN1_IL.gif" alt="Description 2" style="width: 30%; margin-right: 2%;">
+    <img src="/images/UNSEEN1_RL.gif" alt="Description 3" style="width: 30%;">
    </div>
 * *Jointly Improving the Sample and Communication Complexities in Decentralized Stochastic Minimax Optimization*.\
    **Xuan Zhang**, Gabriel Mancino-Ball, Necdet Serhat Aybat, Yangyang Xu\
