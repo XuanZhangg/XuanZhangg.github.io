@@ -14,10 +14,6 @@ author_profile: true
 <!--{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}-->
-
-* *Learning Neural Traffic Rules*.\
-   **Xuan Zhang**, Xifeng Gao, Kui Wu, Zherong Pan\
-  Manuscript 2023 [available soon]
   
 * *Learning Neural Traffic Rules*.\
    **Xuan Zhang**, Xifeng Gao, Kui Wu, Zherong Pan\
