@@ -18,7 +18,7 @@ author_profile: true
 * *Learning Neural Traffic Rules*.\
    **Xuan Zhang**, Xifeng Gao, Kui Wu, Zherong Pan\
   Manuscript 2023 [available soon]
-  <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
+  <div style="display: flex; flex-direction: column; justify-content: space-between; width: 100%;">
     <img src="/images/UNSEEN1_SP.gif" alt="Description 1" style="width: 30%; margin-right: 1%;">
     <img src="/images/UNSEEN1_IL.gif" alt="Description 2" style="width: 30%; margin-right: 1%;">
     <img src="/images/UNSEEN1_RL.gif" alt="Description 3" style="width: 30%;">
