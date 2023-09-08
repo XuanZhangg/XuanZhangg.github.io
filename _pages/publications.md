@@ -23,17 +23,17 @@ author_profile: true
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
 
-  <div style="flex: 1; text-align: center; margin-right: 2%;">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 2%;">
     <img src="/images/UNSEEN1_SP.gif" alt="Description 1" style="width: 30%;">
     <p>Shortest Path Policy</p>
   </div>
 
-  <div style="flex: 1; text-align: center; margin-right: 2%;">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 2%;">
     <img src="/images/UNSEEN1_IL.gif" alt="Description 2" style="width: 30%;">
     <p>Imitation Learning</p>
   </div>
 
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <img src="/images/UNSEEN1_RL.gif" alt="Description 3" style="width: 30%;">
     <p>Reinforcement Learning</p>
   </div>
