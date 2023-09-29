@@ -18,6 +18,7 @@ author_profile: true
 * *Project: Rigid Body Contact Generator*.\
    Zherong Pan,  **Xuan Zhang**
   1. Develop algorithms for broad and explicit phase collision detection in rigid body handling within game engines, utilizing C++ with CUDA
+  2. Implement a novel approach to prevent energy leakage.
   <h4 style="margin-left: 20px;">Toy Examples of Contact Generator</h4>
     <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; margin-left: 20px;">
 
