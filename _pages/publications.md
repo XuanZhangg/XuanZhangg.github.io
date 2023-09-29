@@ -28,6 +28,7 @@ author_profile: true
     <img src="/images/ContactGenerator.gif" alt="Description 1" style="width: 50%; height: auto;;">
     <p>Box Stacks</p>
   </div>
+  <p style="color: red; font-size: 0.9em;">Please zoom the webpage to display only this image to prevent lag.</p>
 
 </div>
 
