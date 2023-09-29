@@ -14,7 +14,20 @@ author_profile: true
 <!--{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}-->
-  
+
+* *Project: Rigid Body Contact Generator*.\
+   Zherong Pan,  **Xuan Zhang**\
+  <h4 style="margin-left: 20px;">Toy Examples of Real-Time Congestion-Free Navigations</h4>
+    <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; margin-left: 20px;">
+
+  <div style="flex: 1; text-align: center; margin-right: 2%;">
+    <img src="/images/UNSEEN1_SP.gif" alt="Description 1" style="width: 100%;">
+    <p>Shortest Path Policy</p>
+  </div>
+
+  </div>
+
+
 * *Learning Neural Traffic Rules*.\
    **Xuan Zhang**, Xifeng Gao, Kui Wu, Zherong Pan\
   Manuscript 2023 [available soon]
