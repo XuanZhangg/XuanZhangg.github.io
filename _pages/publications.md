@@ -22,10 +22,10 @@ author_profile: true
      
 <h4 style="margin-left: 40px;">Examples of Contact Generator</h4>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; margin-left: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; margin-left: 60px;">
 
   <div style="flex: 1; text-align: center; margin-right: 2%;">
-    <img src="/images/ContactGenerator.gif" alt="Description 1" style="width: 100%;">
+    <img src="/images/ContactGenerator.gif" alt="Description 1" style="width: 50%; height: auto;;">
     <p>Box Stacks</p>
   </div>
 
@@ -38,7 +38,7 @@ author_profile: true
   
 <h4 style="margin-left: 40px;">Toy Examples of Real-Time Congestion-Free Navigations</h4>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; margin-left: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; margin-left: 60px;">
 
   <div style="flex: 1; text-align: center; margin-right: 2%;">
     <img src="/images/UNSEEN1_SP.gif" alt="Description 1" style="width: 100%;">
