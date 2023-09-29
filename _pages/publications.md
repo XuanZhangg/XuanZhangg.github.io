@@ -23,7 +23,7 @@ author_profile: true
     <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; margin-left: 20px;">
 
   <div style="flex: 1; text-align: center; margin-right: 2%;">
-    <img src="/images/1. ContactGenerator(On going project).gif
+    <img src="/images/ContactGenerator.gif
 " alt="Description 1" style="width: 100%;">
     <p>Shortest Path Policy</p>
   </div>
