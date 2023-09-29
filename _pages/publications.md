@@ -19,21 +19,22 @@ author_profile: true
    Zherong Pan,  **Xuan Zhang**
   1. Develop algorithms for broad and explicit phase collision detection in rigid body handling within game engines, utilizing C++ with CUDA
   2. Implement a novel approach to prevent energy leakage.
-  <h4 style="margin-left: 20px;">Toy Examples of Contact Generator</h4>
-    <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; margin-left: 20px;">
+     
+<h4 style="margin-left: 20px;">Toy Examples of Real-Time Congestion-Free Navigations</h4>
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; margin-left: 20px;">
 
   <div style="flex: 1; text-align: center; margin-right: 2%;">
-    <img src="/images/ContactGenerator.gif
-" alt="Description 1" style="width: 100%;">
+    <img src="/images/ContactGenerator.gif" alt="Description 1" style="width: 100%;">
     <p>Shortest Path Policy</p>
   </div>
 
-  </div>
+</div>
 
 
 * *Learning Neural Traffic Rules*.\
    **Xuan Zhang**, Xifeng Gao, Kui Wu, Zherong Pan\
-  Manuscript 2023 [available soon]
+  Manuscript 2023 [under review]
   
 <h4 style="margin-left: 20px;">Toy Examples of Real-Time Congestion-Free Navigations</h4>
 
