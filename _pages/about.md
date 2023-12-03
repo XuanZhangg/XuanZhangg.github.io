@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Industrial Engineering at Pennsylvania State University. I am advised by [Dr. Necdet Serhat Aybat](https://nsaybat.org/). I also work closely with [Dr. Mert Gürbüzbalaban](https://mert-g.org/). My research lies in the algorithmic foundations of optimization, exploring its theoretical and practical dimensions. I also possess a keen interest in the intricate interplay between optimization and artificial intelligence. I am actively exploring opportunities in the industry where I can apply my knowledge and expertise. 
+I am a Ph.D. student in Industrial Engineering at Pennsylvania State University. I am advised by [Dr. Necdet Serhat Aybat](https://nsaybat.org/). I also work closely with [Dr. Mert Gürbüzbalaban](https://mert-g.org/). My research lies in the algorithmic foundations of optimization, exploring its theoretical and practical dimensions. I also possess a keen interest in the intricate interplay between optimization and artificial intelligence. 
 
 Recent News
 ------
