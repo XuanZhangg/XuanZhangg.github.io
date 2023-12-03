@@ -31,9 +31,9 @@ Skills
 
 Education
 ------
-* Pennsylvania State University, State College, PA, USA.  
+* Pennsylvania State University, PA, USA.  
 Ph.D. candidate, Industrial Engineering & Operations Research, 2019 - Present.
-* The University of Wisconsin Madison, State College, PA, USA.  
+* The University of Wisconsin Madison, WI, USA.  
 M.S. in Mathematics, 2019.
 * Nanjing University, Jiangsu, China.  
 B.S. in Mathematics and Statistics, 2018.
